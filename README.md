@@ -1,4 +1,4 @@
-# Discord Bot Protótipo #
+# Discord Bot Protótipo Kyle Loves Cartman #
 
 Discord Bot integrado com uma planilha do Google Sheets
 
